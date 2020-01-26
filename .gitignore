@@ -138,3 +138,4 @@ dmypy.json
 # Image datasets
 curt_data/
 prec_data_flat/
+prec_data/
