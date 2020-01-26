@@ -134,3 +134,7 @@ dmypy.json
 
 # Config files
 .vscode
+
+# Image datasets
+curt_data/
+prec_data_flat/
